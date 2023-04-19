@@ -33,6 +33,6 @@
   
 ### Working on
 
-<a href="https://github.com/factorlibre" target="_blank" rel="noreferrer"><img src="images/factorlibre.png" alt="FactorLibre" /></a>
+<a href="https://github.com/factorlibre" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/2283516?s=200&v=4" alt="FactorLibre" /></a>
 
 </div>
