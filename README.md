@@ -1,11 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
-</div>
-
 <div align="center">
-    <h2> Hello World! </h2>
-    <h3> Hi 👋 My name is Álvaro Marcos </h3>
+    <h3> My name is Álvaro Marcos </h3>
     <p> <b> Software Developer 🖥️ </b> </p>
+    <p> <b> Odoo collaborator </b> </p>
 
 
 ### Skills
@@ -29,7 +25,7 @@
   
 ### Socials
 
-<p align="center"> <a href="https://www.github.com/HugoCordobaLeal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="center"> <a href="https://www.github.com/amarcosg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
   
 ### Working on
 
