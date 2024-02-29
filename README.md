@@ -1,27 +1,10 @@
 <div align="center">
-    <h3> My name is Álvaro Marcos </h3>
-    <p> <b> Software Developer 🖥️ </b> </p>
-    <p> <b> Odoo collaborator </b> </p>
-
-
-### Skills
-
-
-<p align="center">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-</p>
-  
-### Metrics
-  
-[![Alvaro Marcos's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=amarcosg&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
+    <img alt="GIF" src="https://c.tenor.com/JJ_is357rXYAAAAd/tenor.gif" height="280" />
+    <h3> Hi, my name is Álvaro Marcos <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h3>
+    <p> :computer: Software Developer </p>
+    <p> :purple_circle: Odoo Expert </p>
+    <p> :speech_balloon: Ask me about anything! </p>
+    
   
 ### Socials
 
@@ -29,6 +12,6 @@
   
 ### Working on
 
-<a href="https://github.com/factorlibre" target="_blank" rel="noreferrer"><img src="https://factorlibre.com/wp-content/uploads/2017/11/logo-factor-libre-menu-colour.png" alt="FactorLibre" /></a>
+![doble tinta negativo sin fondo](https://github.com/amarcosg/amarcosg/assets/17482591/ca475737-b601-42bb-923e-7925c2072c9a)
 
 </div>
